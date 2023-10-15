@@ -1,0 +1,15 @@
+h1{
+    background-color: pink;
+    box-shadow: 10px 10 px 5 px black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+    border: 15px solid green;
+    padding: auto;
+    margin: 20px;
+    box-shadow: 10px 10px 5px blue;
+    background-image: -webkit-linear-gradient();
+}
